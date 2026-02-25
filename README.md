@@ -38,4 +38,3 @@ The analysis determined whether the variation led to a statistically significant
 ## 📁 Project Structure
 
 - `ab_testing_analysis.ipynb` – Full experiment analysis
-- `data/` – Dataset files (if applicable)
